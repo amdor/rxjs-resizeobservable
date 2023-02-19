@@ -1,2 +1,2 @@
 # rxjs-resizeobservable
-ResizeObservable meets Observable
+ResizeObserver meets Observable
